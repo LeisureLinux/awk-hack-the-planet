@@ -2,7 +2,7 @@
 
  - 中文修改：生成 payroll 使用了 中文的姓名，头衔，职场 等
  - 所有的 awk 都放到了 awk_exercises.sh 的函数里，直接执行这个 .sh 脚本即可
- - [Bilibili Video](https://www.bilibili.com/video/BV1LM411b7fg/)
+ - [中文讲解Bilibili Video](https://www.bilibili.com/video/BV1LM411b7fg/)
 
 ## Below are original README
 =========================================
