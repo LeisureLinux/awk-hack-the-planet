@@ -1,5 +1,12 @@
 # Awk:  Hack the Planet['s text]!
 
+ - 中文修改：生成 payroll 使用了 中文的姓名，头衔，职场 等
+ - 所有的 awk 都放到了 awk_exercises.sh 的函数里，直接执行这个 .sh 脚本即可
+ - [Bilibili Video](https://www.bilibili.com/video/BV1LM411b7fg/)
+
+## Below are original README
+=========================================
+
 [Slides](https://raw.githubusercontent.com/FreedomBen/awk-hack-the-planet/master/Slides%20for%20Awk-%20Hack%20the%20planet%5B's%20text%5D.pdf)
 and source code to go along with Ben Porter's Awk talk at Linux Fest Northwest 2020
 
