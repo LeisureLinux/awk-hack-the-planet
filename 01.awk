@@ -1,1 +1,0 @@
-/Janitor/ { print $3 }
